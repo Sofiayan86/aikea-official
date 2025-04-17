@@ -1,0 +1,69 @@
+{
+  "product_name": "AIKEA",
+  "tagline": "SIMPLE & SAFE AI Home Camera",
+  "slogan": "Capture Important Moments For You",
+  "description": "AIKEA is a home camera powered by AI which can capture important moments automatically for you.",
+  "key_features": [
+    {
+      "title": "SIMPLE & ELEGANT",
+      "description": "AIKEA is built with simple concept. The sensor-like appearance and shape allow you to place it anywhere at home.",
+      "dimensions": "5cm x 7cm"
+    },
+    {
+      "title": "PRIVACY BY DESIGN",
+      "description": "It is created with built-in AI. All intelligent computation is done locally inside AIKEA to protect your privacy. No cloud collection of your home videos."
+    },
+    {
+      "title": "MULTIPLE TARGETS",
+      "description": "AIKEA supports detection of 20+ targets including dogs, cats, intruders, cars, babies and bicycles. You may easily switch between targets based on your need."
+    },
+    {
+      "title": "OPEN SOURCE",
+      "description": "AIKEA is 100% open-sourced and users may customize AIKEA in the best you prefer, like turning it into a dinosaur. All components are compatible with Raspberry Pi and are reusable in order to reduce the electronic wastes."
+    }
+  ],
+  "how_it_works": [
+    "AIKEA AI detects the event",
+    "An image is sent to your Telegram account",
+    "Open Telegram and check",
+    "No cloud collection is involved"
+  ],
+  "use_cases": [
+    "Intruder Detection",
+    "Cat Toilet Detection"
+  ],
+  "achievements": [
+    "Project We Love on Kickstarter",
+    "100% funded in 2019",
+    "The only crowdfunded product mentioned in the Internet Health Report 2019 published by Mozilla"
+  ],
+  "pricing": [
+    {
+      "name": "AIKEA Full Kit",
+      "description": "Get one AIKEA kit to protect your home at a discounted rate",
+      "price": "USD $250"
+    },
+    {
+      "name": "AIKEA Light Kit",
+      "description": "With this reward tier, your RPi Laying around at home can be an AIKEA!",
+      "price": "USD $30"
+    }
+  ],
+  "shop_url": "http://aikea.co/shop",
+  "company_info": {
+    "name": "DT42",
+    "founded": "2016",
+    "focus": "Building lightweight and intelligent edge AI solutions. Our system can run on mobile phones and IOT devices to allow AI run without internet connections.",
+    "vision": "In the 5G era, our solution is the best partner for mobility, smart city, and factory automation.",
+    "partnerships": "DT42 is an official partner of NVIDIA, Intel, Qualcomm and arm.",
+    "product_statement": "AIKEA is the key product built by DT42 to provide elegant and simple edge AI experience to customers"
+  },
+  "other_services": [
+    "Smart city: car, motorcycle alert",
+    "Smart city: animal alert",
+    "Smart city: people counting",
+    "Smart city: tunnel safety monitoring",
+    "Drone: landing instruction",
+    "Home AI camera: AIKEA"
+  ]
+}
